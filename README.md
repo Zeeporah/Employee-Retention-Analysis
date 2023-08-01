@@ -24,13 +24,13 @@ Over18: Binary field indicating whether the employee is over 18 years old.
 
 #### KEY INSIGHTS AND FINDINGS
 
-###### High-performing employees with low monthly salary left the organization than those with high income.
+##### High-performing employees with low monthly salary left the organization than those with high income.
 
-###### High performers with the lowest job satisfaction left their positions at a higher rate than those with higher job satisfaction.
+##### High performers with the lowest job satisfaction left their positions at a higher rate than those with higher job satisfaction.
 
-###### People who have worked for 0 to 1 company have quit at a higher rate than those who have worked for many organizations.
+##### People who have worked for 0 to 1 company have quit at a higher rate than those who have worked for many organizations.
 
-###### Employees who have been with the organization for very little years and worked fewer years in total are more likely to leave.
+##### Employees who have been with the organization for very little years and worked fewer years in total are more likely to leave.
 
 
 
