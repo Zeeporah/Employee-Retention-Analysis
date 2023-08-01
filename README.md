@@ -23,14 +23,15 @@ Over18: Binary field indicating whether the employee is over 18 years old.
 
 
 #### KEY INSIGHTS AND FINDINGS
+The analysis of the dataset presented several key findings that offer valuable insights into the dynamics of employee retention, job satisfaction, and performance within the organization. This section highlights the essential discoveries and trends uncovered through data exploration and visualization. Some of the findings include:
 
-### High-performing employees with low monthly salary left the organization than those with high income.
+*High-performing employees with low monthly salary left the organization than those with high income.
 
-### High performers with the lowest job satisfaction left their positions at a higher rate than those with higher job satisfaction.
+* High performers with the lowest job satisfaction left their positions at a higher rate than those with higher job satisfaction.
 
-### People who have worked for 0 to 1 company have quit at a higher rate than those who have worked for many organizations.
+* People who have worked for 0 to 1 company have quit at a higher rate than those who have worked for many organizations.
 
-### Employees who have been with the organization for very little years and worked fewer years in total are more likely to leave.
+* Employees who have been with the organization for very little years and worked fewer years in total are more likely to leave.
 
 
 
@@ -40,3 +41,10 @@ For more interactive visualizations and in-depth analysis, explore the Tableau d
 https://public.tableau.com/app/profile/zipporah.ebede/viz/EMPLOYEERETENTIONANALYSIS1/Dashboard1?publish=yes
 https://public.tableau.com/app/profile/zipporah.ebede/viz/EMPLOYEERETENTIONANALYSIS2/Dashboard2?publish=yes
 https://public.tableau.com/app/profile/zipporah.ebede/viz/EMPLOYEERETENTIONANALYSIS/Dashboard3
+
+
+#### RECOMMENDATIONS
+
+* Improve job satisfaction by offering more opportunities for growth and development
+* Provide competitive compensation packages and create a positive work environment that values employee well-being and work-life balance.
+* Provide more opportunities for career growth and development by offering training and development programs.
