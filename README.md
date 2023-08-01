@@ -63,3 +63,10 @@ Here are several possible reasons:
 *Compensation
 *Personal Reasons
 
+
+## Tableau Visualizations
+For more interactive visualizations and in-depth analysis, explore the Tableau dashboard created using the dataset from the workforce. The dashboard provides a user-friendly interface to explore the key insights and findings.
+
+https://public.tableau.com/app/profile/zipporah.ebede/viz/EMPLOYEERETENTIONANALYSIS1/Dashboard1?publish=yes
+https://public.tableau.com/app/profile/zipporah.ebede/viz/EMPLOYEERETENTIONANALYSIS2/Dashboard2?publish=yes
+https://public.tableau.com/app/profile/zipporah.ebede/viz/EMPLOYEERETENTIONANALYSIS/Dashboard3
