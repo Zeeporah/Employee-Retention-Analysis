@@ -9,7 +9,7 @@ The main objective of this dataset analysis is to explore factors that contribut
 This project is crucial because it helps the organization take proactive measures to retain its high-performing employees, 
 thereby ensuring a stable workforce and enhancing the organization's productivity and profitability. 
 
-  # DATASET OVERVIEW
+  ##### DATASET OVERVIEW
   This dataset contains information on employee attributes collected from a company's workforce. 
   The data can be used to analyze employee retention and performance factors, aiming to gain insights into the workforce dynamics and make informed decisions regarding talent management and engagement.
 
@@ -22,16 +22,16 @@ NumCompaniesWorked: Number of companies the employee worked for before the curre
 Over18: Binary field indicating whether the employee is over 18 years old.
 
 
-# KEY INSIGHTS AND FINDINGS
+##### KEY INSIGHTS AND FINDINGS
 
-High-performing employees with low monthly salary left the organization than those with high income.
-High performers with the lowest job satisfaction left their positions at a higher rate than those with higher job satisfaction. 
-People who have worked for 0 to 1 company have quit at a higher rate than those who have worked for many organizations. 
-Employees who have been with the organization for very little years and worked fewer years in total are more likely to leave. 
+**High-performing employees with low monthly salary left the organization than those with high income.**
+**High performers with the lowest job satisfaction left their positions at a higher rate than those with higher job satisfaction.**
+**People who have worked for 0 to 1 company have quit at a higher rate than those who have worked for many organizations.**
+**Employees who have been with the organization for very little years and worked fewer years in total are more likely to leave.** 
 
 
 
-## Tableau Visualizations
+###### Tableau Visualizations
 For more interactive visualizations and in-depth analysis, explore the Tableau dashboard created using the dataset from the workforce. The dashboard provides a user-friendly interface to explore the key insights and findings.
 
 https://public.tableau.com/app/profile/zipporah.ebede/viz/EMPLOYEERETENTIONANALYSIS1/Dashboard1?publish=yes
