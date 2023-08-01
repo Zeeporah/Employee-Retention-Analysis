@@ -1,11 +1,13 @@
 ## EMPLOYEE-RETENTION-ANALYSIS
 
 # OBJECTIVE
-    Employee retention is a critical issue for organizations, especially those with high-performing employees.
+Employee retention is a critical issue for organizations, especially those with high-performing employees.
 The main objective of this dataset analysis is to explore factors that contribute to employee retention and identify patterns that may indicate high performing employees. 
-    By understanding the key attributes affecting employee turnover and job satisfaction, the organization can take proactive measures to retain talented individuals, improve employee engagement, and optimize overall workforce management.
+ By understanding the key attributes affecting employee turnover and job satisfaction, 
+ the organization can take proactive measures to retain talented individuals, improve employee engagement, and optimize overall workforce management.
 
-    This project is crucial because it helps the organization take proactive measures to retain its high-performing employees, thereby ensuring a stable workforce and enhancing the organization's productivity and profitability. 
+This project is crucial because it helps the organization take proactive measures to retain its high-performing employees, 
+thereby ensuring a stable workforce and enhancing the organization's productivity and profitability. 
 
   # DATASET OVERVIEW
   This dataset contains information on employee attributes collected from a company's workforce. 
