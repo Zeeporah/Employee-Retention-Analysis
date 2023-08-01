@@ -25,7 +25,7 @@ Over18: Binary field indicating whether the employee is over 18 years old.
 #### KEY INSIGHTS AND FINDINGS
 The analysis of the dataset presented several key findings that offer valuable insights into the dynamics of employee retention, job satisfaction, and performance within the organization. This section highlights the essential discoveries and trends uncovered through data exploration and visualization. Some of the findings include:
 
-*High-performing employees with low monthly salary left the organization than those with high income.
+* High-performing employees with low monthly salary left the organization than those with high income.
 
 * High performers with the lowest job satisfaction left their positions at a higher rate than those with higher job satisfaction.
 
